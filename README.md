@@ -1,1 +1,1 @@
-ifile in this direction shows absolute path of a file
+This repo shows basics of shell
